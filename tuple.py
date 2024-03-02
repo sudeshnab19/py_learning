@@ -2,7 +2,7 @@
 Tuple is inmutable.
 Add/Append/Clear not allowed
 """
-marks = [1,2,3,3,3,4]
+marks = (1,2,3,3,3,4)
 student = len(marks)
 print(student)
 print(marks.count(3))   #Both list and tuple can count no. of repeatetive objects

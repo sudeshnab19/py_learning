@@ -1,7 +1,8 @@
 """
 Python list:
- Heterogenious indexed data structure (ex. str,int)
+ Heterogenious indexed data structure (ex. str,int, any data type)
  Which grows dynamically. 
+ it can be mutated
 """
 marks = [22,23,24]
 marks.append(25)

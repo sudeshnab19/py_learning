@@ -18,7 +18,7 @@ while i<=y:
 """
 
 def table_multiplier(i,x,y):
-    while i<=y:
+    while i<=y: # while loop 
         val=(x*i)
         print(val)
         i+=1

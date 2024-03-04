@@ -24,7 +24,7 @@ def table_multiplier(i,x,y):
         i+=1
 
 x=int(input("please enter the table multiplier: "))
-y=int(input("please mention the no. of table multipliers: "))
+y=int(input("please mention the no. of times table multipliers will run: "))
 i=1
 table_multiplier(i,x,y)
     
